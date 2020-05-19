@@ -8,3 +8,4 @@ gouhuo`:
 help
 Creating a new branch is quick and simple.
 midifi
+hey hey bug test`
