@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Xun yu zhen gou ,
 gouhuo`:
 help
+Creating a new branch is quick & simple.
